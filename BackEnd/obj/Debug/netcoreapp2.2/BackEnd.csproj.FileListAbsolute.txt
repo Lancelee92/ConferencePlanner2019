@@ -1,0 +1,14 @@
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.deps.json
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.runtimeconfig.json
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.runtimeconfig.dev.json
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.dll
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.pdb
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csprojAssemblyReference.cache
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csproj.CoreCompileInputs.cache
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorAssemblyInfo.cache
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorAssemblyInfo.cs
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.AssemblyInfoInputs.cache
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.AssemblyInfo.cs
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorTargetAssemblyInfo.cache
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.dll
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.pdb
