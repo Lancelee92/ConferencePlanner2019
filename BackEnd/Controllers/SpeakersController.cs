@@ -31,7 +31,6 @@ namespace BackEnd.Controllers {
         }
 
         // GET: api/Speakers/5
-        [HttpGet ("{id}")]
         [HttpGet ("{id:int}")]
         public async Task<ActionResult<ConferenceDTO.SpeakerResponse>> GetSpeaker (int id) {
             var speaker = await _db.Speakers.AsNoTracking ()
