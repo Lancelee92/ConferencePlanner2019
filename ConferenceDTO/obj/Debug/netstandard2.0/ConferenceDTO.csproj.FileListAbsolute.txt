@@ -1,0 +1,9 @@
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/bin/Debug/netstandard2.0/ConferenceDTO.deps.json
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/bin/Debug/netstandard2.0/ConferenceDTO.dll
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/bin/Debug/netstandard2.0/ConferenceDTO.pdb
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.csprojAssemblyReference.cache
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.csproj.CoreCompileInputs.cache
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.AssemblyInfoInputs.cache
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.AssemblyInfo.cs
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.dll
+/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.pdb

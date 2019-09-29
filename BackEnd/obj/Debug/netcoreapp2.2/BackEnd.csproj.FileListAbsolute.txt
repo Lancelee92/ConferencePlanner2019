@@ -12,3 +12,6 @@
 /home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorTargetAssemblyInfo.cache
 /home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.dll
 /home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.pdb
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/ConferenceDTO.dll
+/home/yc/project/ConferencePlanner2019/BackEnd/bin/Debug/netcoreapp2.2/ConferenceDTO.pdb
+/home/yc/project/ConferencePlanner2019/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csproj.CopyComplete
