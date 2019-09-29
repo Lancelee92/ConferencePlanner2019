@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj": {}
+  },
+  "projects": {
+    "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj",
+        "projectName": "ConferenceDTO",
+        "projectPath": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj",
+        "packagesPath": "/home/yc/.nuget/packages/",
+        "outputPath": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/yc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj",
+        "projectName": "FrontEnd",
+        "projectPath": "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj",
+        "packagesPath": "/home/yc/.nuget/packages/",
+        "outputPath": "/home/yc/Project/ConferencePlanner2019/FrontEnd/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/yc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj": {
+                "projectPath": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
