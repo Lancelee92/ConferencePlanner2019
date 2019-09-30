@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/yc/project/ConferencePlanner2019/BackEnd/BackEnd.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
-    "/home/yc/project/ConferencePlanner2019/BackEnd/BackEnd.csproj": {
+    "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\BackEnd\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yc/project/ConferencePlanner2019/BackEnd/BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\BackEnd\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "/home/yc/project/ConferencePlanner2019/BackEnd/BackEnd.csproj",
-        "packagesPath": "/home/yc/.nuget/packages/",
-        "outputPath": "/home/yc/project/ConferencePlanner2019/BackEnd/obj/",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\BackEnd\\BackEnd.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/yc/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/home/yc/project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj": {
-                "projectPath": "/home/yc/project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj"
+              "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj"
               }
             }
           }
@@ -81,20 +81,20 @@
         }
       }
     },
-    "/home/yc/project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj": {
+    "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yc/project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj",
         "projectName": "ConferenceDTO",
-        "projectPath": "/home/yc/project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj",
-        "packagesPath": "/home/yc/.nuget/packages/",
-        "outputPath": "/home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/yc/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -121,6 +121,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
             },
             "System.ComponentModel.Annotations": {
               "target": "Package",

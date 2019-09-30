@@ -7,3 +7,12 @@
 /home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.AssemblyInfo.cs
 /home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.dll
 /home/yc/project/ConferencePlanner2019/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.pdb
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.deps.json
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.dll
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.pdb
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfo.cs
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.dll
+C:\Users\ASUS\Documents\project\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.pdb

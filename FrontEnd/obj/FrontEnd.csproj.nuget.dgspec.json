@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj": {}
   },
   "projects": {
-    "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj": {
+    "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj",
         "projectName": "ConferenceDTO",
-        "projectPath": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj",
-        "packagesPath": "/home/yc/.nuget/packages/",
-        "outputPath": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/obj/",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/yc/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -45,6 +45,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "System.ComponentModel.Annotations": {
               "target": "Package",
               "version": "[4.5.0, )"
@@ -58,20 +62,20 @@
         }
       }
     },
-    "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj": {
+    "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj",
         "projectName": "FrontEnd",
-        "projectPath": "/home/yc/Project/ConferencePlanner2019/FrontEnd/FrontEnd.csproj",
-        "packagesPath": "/home/yc/.nuget/packages/",
-        "outputPath": "/home/yc/Project/ConferencePlanner2019/FrontEnd/obj/",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/yc/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -82,8 +86,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj": {
-                "projectPath": "/home/yc/Project/ConferencePlanner2019/ConferenceDTO/ConferenceDTO.csproj"
+              "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj"
               }
             }
           }
